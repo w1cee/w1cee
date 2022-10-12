@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐱‍💻 Currently working on vending machine e-commerce  
+🐱‍💻 Currently working on vending machines e-commerce  
 🌱 Learning OpenCV
 
 
