@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23430098.svg?style=for-the-badge&logo=django&color=darkgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![TelegramBots](https://img.shields.io/badge/Telebot/Aiogram-%23430098.svg?style=for-the-badge&logo=telegram&color=blue)  
+![TelegramBots](https://img.shields.io/badge/Telebot/Telethon-%23430098.svg?style=for-the-badge&logo=telegram&color=blue)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
