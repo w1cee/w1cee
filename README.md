@@ -1,7 +1,6 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23430098.svg?style=for-the-badge&logo=django&color=darkgreen)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![TelegramBot](https://img.shields.io/badge/Telebot/Telethon-%23430098.svg?style=for-the-badge&logo=telegram&color=blue)  
 
 # 📊 GitHub Stats:
